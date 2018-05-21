@@ -2,8 +2,7 @@
 test
 
 this is readme-edits
-
-至此中文
+支持中文显示
 
 
 this is test pages.
